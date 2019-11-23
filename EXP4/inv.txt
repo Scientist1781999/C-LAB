@@ -1,0 +1,12 @@
+Asset no=1
+Asset name=swap
+Asset price=200.00
+Asset no=2
+Asset name=chilli
+Asset price=300.00
+Asset no=1
+Asset name=chilli
+Asset price=200.00
+Asset no=2
+Asset name=swap
+Asset price=400.00
